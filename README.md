@@ -7,7 +7,7 @@
 
 ### <span id="了解">了解MyChat软件</span>
 > 这是一个开放性的Windows管道通信程序，原理和WeChat、DingTalk、TikTok相似，可以建群聊 \
-> 这个程序认准界面(Github Pages)[https://www.github.com],其余全是盗版 \
+> 这个程序认准界面(Github Pages)[https://www.github.com], 其余全是盗版 \
 > 本软件仅供学习和研究使用，切勿用于其他用途（如：商业通途）
 
 ```mermaid
@@ -96,6 +96,9 @@ sequenceDiagram
 ### <span id="更新">更新历史</span>
 ### Release1.0.0
 > 第一个版本
+
+### Preview1.1.0
+>加入了排队机制，可以修改源代码修改
 
 ### <span id="团队">研发团队</span>
 ### RSC Studio
